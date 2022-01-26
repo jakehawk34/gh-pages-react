@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          My awesome GitHub Page running with React <code>src/App.js</code> and save to reload.
+          My awesome GitHub Page running with React
         </p>
         <a
           className="App-link"
